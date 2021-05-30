@@ -1,0 +1,28 @@
+
+h1 {
+    color:rgb(18, 94, 156);
+}
+.class {
+    color: rgb(36, 230, 36);
+}
+
+p:nth-child(3) {
+    color:rgb(113, 153, 156);
+}
+
+h2 + p {
+    color:rgb(255, 0, 0);
+}
+
+h2 ~ p {
+    font-weight: bolder;
+}
+
+div p {
+    color: rgb(247, 0, 255);
+}
+
+
+
+
+
